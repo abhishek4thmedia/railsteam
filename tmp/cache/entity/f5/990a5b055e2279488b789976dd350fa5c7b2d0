@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Services</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <!-- <link rel="stylesheet" type="text/css" href="/reset.css" /> -->
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <script type="text/javascript" src="http://www.jeroenwijering.com/embed/swfobject.js"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/prototype.js"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/lightbox.js"></script>
+    <script type="text/javascript" src="/javascripts/chrome.js"></script>
+
+    <!--[if IE 6]>
+      <style type="text/css" media="screen">
+        @import url("/stylesheets/ie6.css");
+      </style>
+    <![endif]-->
+
+    <!--[if IE 7]>
+      <style type="text/css" media="screen">
+        @import url("/stylesheets/ie7.css");
+      </style>
+    <![endif]-->
+
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="header">
+    <div class="header_left">
+      <div class="logo"><a href="/"><img src="/assets/4/01_logo.png"  alt='header-logo' /></a></div>
+    </div>
+    <div class="header_right">
+      <div class="top_nav"></div>
+      <div class="clear"></div>
+      <div class="contact_container">
+        <div class="country_flag"><img src="/assets/5/flag_img.jpg"  alt='Call' /></div>
+        <div class="contact_btn"><a href="/Contact-Us">Contact Us</a></div>
+        <div class="blog_btn"><a href="http://techinspiration.wordpress.com/">Blog</a></div>
+      </div>
+    </div>
+  </div>
+      <div id="nav">
+        <div id="main_nav">
+    <div class="main_nav_left"></div>
+    <div class="chromestyle main_nav_mid" id="chromemenu">
+        <ul>
+          <li><a href="/">Home</a></li>
+
+         <li><a href="/About-Us">About us</a></li> <li class="current"><a href="/Services">Services</a></li> <li><a href="/Agile-Development">Agile development</a></li> <li><a href="/Success-Stories">Projects</a></li> <li><a href="/Contact-Us">Contact</a></li> <li><a href="/career">Career</a></li>
+        </ul>
+        </div>
+        <!--1st drop down menu -->
+<div id="dropmenu1" class="dropmenudiv">
+<a href="#">Our Philosophy</a>
+<a href="#">Leadership team</a>
+</div>
+<script type="text/javascript">
+cssdropdown.startchrome("chromemenu")
+</script>
+
+    <div class="main_nav_right"></div>
+  </div>
+      </div>
+      <div id="main">
+        <div id="content-wrapper">
+          <div class="inside_main_container">
+            <div class="inside_main_top"></div>
+            
+            
+              <div class="inside_main_mid">
+            
+            <div id="content">
+              <div class="page_heading">Services</div>
+<div class="about_us_detail">
+  RailsTeam develops robust, smart and efficient web application in Ruby on Rails. Our approach to web application development is perfectly suited to meet the needs of internet start-ups, Software-as-a-Service companies who need agility and flexibility to quickly respond to the changing market conditions.
+  <br/><br/>
+  We work closely with you to plan and organize product goals, do release planning and execute ideas into user friendly product. Our service includes:<br/><br/>
+  <ul>
+    <li>Brainstorming and consulting</li>
+    <li>Developing product roadmap</li>
+    <li>Concept development</li>
+    <li>Release planning</li>
+    <li>Software development</li>
+    <li>Quality assurance</li>
+    <li>Third party integration</li>
+    <li>Hosting and deployment</li>
+  </ul>
+  <br/>
+  <strong>Our end to end expertise brings you faster return on investment while reducing the time to market your product.</strong>
+  <br/>
+  <div class="mediamaid"><img src="/assets/6/home_banner.jpg"  alt='services_banner' /> </div>
+</div>
+              
+            </div>
+          </div>
+          <div class="inside_main_bottom"></div>
+        </div>
+      </div>
+      <div id="sidebar-wrapper">
+        <div id="sidebar">
+          <div class="inside_right_container">
+    <div class="inside_right_top"></div>
+    <div class="inside_tab_container">
+    	<div class="project_right_container_heading">Testimonial</div>
+       <div class="inside_right_detail"> <div class="project_detail_text">
+       “RailsTeam has done an extraordinary job at helping me build and manage Greenerbilling. They are relentless in their ability to organize, assign, and execute project specs. Most impressive is their translation of my ideas into the coded language of the application. I highly recommend RailsTeam for software development
+
+</div>
+<span>- David Kollasch, 
+CEO, Greenerbilling.com</span>
+</div>
+   </div>
+    <div class="inside_right_bottom"></div>
+    
+    </div>
+
+
+
+        </div>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+
+    <div id="footer">
+      <div class="footer">
+
+    <div class="footer_block_one">
+      <h2>Company</h2>
+      <ul class="footer_content">
+        <li><a href="/About-Us/the-team/">The Team</a></li>
+        <li><a href="/About-Us/our-philosophy">Our Philosophy</a></li>
+        <li><a href="/terms-of-service">Terms of Service</a></li>
+        <li><a href="/privacy-policy">Privacy Policy</a></li>
+      </ul>
+    </div>
+    <div class="footer_block_two">
+      <h2> Agile development </h2>
+      <ul class="footer_content">
+        <li><a href="/Agile-Development">Agile development</a></li>
+        <li><a href="/Agile-Development/why-agile-development">Our Approach</a></li>
+        <li><a href="/Agile-Development/agile-development-process">Development Process</a></li>
+      </ul>
+    </div>
+    <div class="footer_block_three">
+      <h2>Contact Us</h2>
+      <div class="footer_content">
+        <p><img src="../images/email_icon.gif" alt="" /><a href="mailto:sales@railsteam.com">sales@railsteam.com</a></p>
+        <p><a><img src="../images/telephone_btn.gif" alt="" width="17" height="13"/>+1 (904) 647 4847</a></p>
+      </div>
+
+<!--<div class="social_bookmark"> <h2>Follow Us on :</h2>
+<a href="http://twitter.com/railsteam"><img src="../images/twitter_logo.gif" alt="" width="25" height="26" /></a>
+<a href="http://www.facebook.com/pages/Develop-New-age-web-applications-with-RailsTeam/111587745543542?ref=ss"><img src="../images/facebook_logo.gif" alt="" width="24" height="25" /></a></div>!-->
+
+    </div>
+
+<div class="footer_block_four">
+      <!--<h2>Twitter</h2>
+      <ul id="tweetlist">
+        <li class="twitter-item"> <a href="http://twitter.com/mycommercekit" class="twitter-user">@designdhaval</a> Dummy comment posted here. its not original the public timeline <a href="http://twitter.com/mycommercekit" title="2009-11-04T06:30:51-08:00" class="tweet-status">about 16 hours ago</a></li>
+      </ul>!-->
+    <h2>Follow Us on :</h2>
+    <ul id="tweetlist">
+        <li class="twitter-item">
+        <a href="http://twitter.com/railsteam"><img src="../images/twitter_logo.gif" alt="" width="25" height="26" /></a>
+        <a href="http://www.facebook.com/pages/Develop-New-age-web-applications-with-RailsTeam/111587745543542?ref=ss"><img src="../images/facebook_logo.gif" alt="" width="24" height="25" /></a>
+        </li>
+      </ul>
+    
+
+</div>
+
+    <!--used for displaying latest tweet from twitter--!>
+    
+
+     <!-- <div class="partners_logo"><img src="../images/w3c_html.gif" alt="" width="66" height="39" /><img src="../images/w3c_css.gif" alt="" width="68" height="39" /></div>-->
+
+    <div class="copyright_line">
+      © Copyright 2009. RailsTeam. All rights reserved.
+      </div>
+
+  </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/4thmedia/railsteamnew/!svn/ver/45/trunk/vendor/plugins/action_mailer_tls/generators/templates/config/initializers
+END
+smtp_gmail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/4thmedia/railsteamnew/!svn/ver/45/trunk/vendor/plugins/action_mailer_tls/generators/templates/config/initializers/smtp_gmail.rb
+END
